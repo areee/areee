@@ -1,7 +1,5 @@
 ### Hi there, I'm Arttu Ylhävuori, a program designer at Talgraf Oy 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on _Full stack open 2020_ [course](https://fullstackopen.com/en) made by University of Helsinki
 - 🌱 I’m currently learning how to test Express servers and create a user administration ([part #4](https://fullstackopen.com/en/part4) in full stack open 2020)
 - 👯 I’m looking to collaborate on various open-source projects that feel interesting to me
