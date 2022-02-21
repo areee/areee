@@ -1,10 +1,4 @@
-### Hi there! I'm Arttu Ylhävuori, a program designer at Talgraf Oy 👋
+<!-- Used source: https://github.com/anuraghazra/github-readme-stats -->
 
-- 🔭 I’m currently working on _Full stack open 2020_ [course](https://fullstackopen.com/en) made by University of Helsinki
-- 🌱 I’m currently learning how to manage state using Redux library ([part #6](https://fullstackopen.com/en/part6) in _Full stack open 2020_)
-- 👯 I’m looking to collaborate on various open-source projects that feel interesting to me
-- 🤔 I’m looking for help with .NET related subjects
-- 💬 Ask me about especially front-end, Android or macOS related questions
-- 📫 How to reach me: [Twitter](https://twitter.com/arttuylh), [LinkedIn](https://www.linkedin.com/in/arttuylh/) or [email](mailto:arttu.ylhavuori(a)hotmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My passion is for music! 🎧🎶🙂
+![areee's GitHub stats](https://github-readme-stats.vercel.app/api?username=areee&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areee&langs_count=10&layout=compact&theme=dracula)
